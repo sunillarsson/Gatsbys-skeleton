@@ -13,10 +13,7 @@ Hey I'm a skeleton. I don't have any style. So, please give me style!
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
-
     ```sh
-    # create a new Gatsby site using the hello-world starter
     gatsby new gatsby-skeleton https://github.com/sunillarsson/gatsbys-skeleton
     ```
 
@@ -35,9 +32,6 @@ Hey I'm a skeleton. I don't have any style. So, please give me style!
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-
-Hey! This is super confusing!
-Then I suggest you
 
 ## 🎓 Learn to Gatsby
 
